@@ -305,7 +305,7 @@
 * [SCSS CheatSheet](https://devhints.io/sass) - devhints, Rico Santa Cruz (HTML)
 * [SEO CheatSheet](https://learn-the-web.algonquindesign.ca/topics/seo-cheat-sheet/) - Algonquin Design (HTML)
 * [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind Components
-
+* [Bootstrap 5 CSS Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - Theme Selection (HTML)
 
 ### IDE and editors
 
@@ -504,7 +504,7 @@
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
 * [SciPy Cheat Sheet: Linear Algebra in Python](https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python) - Datacamp (HTML, PDF)
 * [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML, PDF)
-
+* [Python Cheatsheet for Quick Reference](https://docs.google.com/document/u/1/d/e/2PACX-1vTkdWzlMnt4qnZBelQGfd1K9RGGotM9bHabcqnoOq_VXWVlzhKSekh3Uu6SZIATPtJ-yr9qleASYhHO/pub) - IIT Madras (HTML)
 
 #### Django
 
